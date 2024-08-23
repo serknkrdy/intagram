@@ -6,5 +6,5 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
 
     // Bu kısımda, kullanıcı adını ve şifreyi bir API'ye gönderebilirsiniz.
     // Şimdilik, sadece basit bir uyarı göstereceğiz.
-    alert(`Username: ${username}\nPassword: ${password}`);
-});
+
+    });
